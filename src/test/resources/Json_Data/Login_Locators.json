@@ -1,0 +1,9 @@
+{
+  "Account_Button" : "//a[@class='skip-link skip-account']",
+  "Login_Button_In_Profile_DDL" : "//a[normalize-space()='Log In']",
+  "Email_Field" : "//input[@id='email']",
+  "Password_Field" : "//input[@id='pass']",
+  "Login_Button" : "//span[contains(text(),'Login')]"
+
+}
+

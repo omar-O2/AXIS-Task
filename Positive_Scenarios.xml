@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test">
+    <test name="Test">
+        <classes>
+            <class name="Registration_Test">
+                <methods>
+                    <include name="Registration_With_Valid_Credentials"/>
+                </methods>
+            </class>
+            <class name="Login_FLow_Test">
+                <methods>
+                    <include name="Login_With_Valid_Credentials"/>
+                </methods>
+            </class>
+            <class name="Add_To_Wishlist_Test">
+                <methods>
+                    <include name="Add_To_Wishlist"/>
+                </methods>
+            </class>
+            <class name="Add_To_Cart_FLow_Test">
+                <methods>
+                    <include name="Hover_Accessories_Category"/>
+                    <include name="Choose_Shoes_Subcategory"/>
+                    <include name="Filter_Products_From_Low_To_High"/>
+                    <include name="Add_To_Cart"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

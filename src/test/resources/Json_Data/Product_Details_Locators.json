@@ -1,0 +1,5 @@
+{
+  "Color" : "(//img[@alt='Charcoal'])[1]",
+  "Size" : "(//span[@class='swatch-label'][normalize-space()='28'])[1]",
+  "Add_To_cart_Button" : "//button[@onclick='productAddToCartForm.submit(this)']//span//span[contains(text(),'Add to Cart')]"
+}

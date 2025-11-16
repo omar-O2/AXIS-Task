@@ -1,0 +1,17 @@
+{
+  "Login": {
+    "Alert": "//li[@class='error-msg']//ul//li"
+  },
+  "Registration": {
+    "Alert": "//div[@id='advice-validate-email-email_address']"
+  },
+  "Wishlist": {
+    "Alert": "//li[@class='success-msg']//ul//li"
+  },
+  "Add_To_Cart":
+  {
+    "Alert" : "(//span[contains(text(),'Khaki Bowery Chino Pants was added to your shoppin')])[1]",
+    "Accessories_Subcategory" : "//li[@class='level0 nav-3 parent menu-active']//ul[@class='level0']"
+  }
+
+}

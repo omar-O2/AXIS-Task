@@ -1,0 +1,9 @@
+{
+  "Website_URL" : "https://ecommerce.tealiumdemo.com/",
+  "Login_URL" : "https://ecommerce.tealiumdemo.com/customer/account/",
+  "Registration_URL" : "https://ecommerce.tealiumdemo.com/customer/account/index/",
+  "Add_To_Cart_URL" : "https://ecommerce.tealiumdemo.com/checkout/cart/",
+  "Shoes_Subcategory_URL" : "https://ecommerce.tealiumdemo.com/accessories/shoes.html",
+  "ASC_Order_Sort_URL" : "https://ecommerce.tealiumdemo.com/accessories/shoes.html?dir=asc&order=price"
+
+}

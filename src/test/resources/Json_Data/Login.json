@@ -1,0 +1,10 @@
+{
+  "Valid_Credentials": {
+    "Email": "o.radwan12545@tammwel.com",
+    "Password": "12345678"
+  },
+  "Invalid_Credentials": {
+    "Email": "omarradwan@gmai.com",
+    "Password": "12345678"
+  }
+}

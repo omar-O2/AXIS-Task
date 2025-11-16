@@ -1,0 +1,20 @@
+{
+  "Registration_With_Valid_Credentials" :  {
+    "First_Name" : "1074404649",
+    "Middle_Name" : "512345678",
+    "Last_Name" : "1074404649",
+    "Email" : "o.radwan1ess2545@tammwel.com",
+    "Password" : "12345678",
+    "Confirm_Password" : "12345678"
+  },
+  "Registration_With_Invalid_Credentials" : {
+    "First_Name" : "1074404649",
+    "Middle_Name" : "512345678",
+    "Last_Name" : "1074404649",
+    "Email" : "o.radwan102a@tammwelcom",
+    "Password" : "512345678",
+    "Confirm_Password" : "512345678"
+
+  }
+
+}

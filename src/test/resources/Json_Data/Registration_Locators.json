@@ -1,0 +1,12 @@
+{
+  "Register_Button_In_Account_DDL" : "//a[normalize-space()='Register']",
+"First_Name_Field" : "//input[@id='firstname']",
+  "Middle_Name_Field" : "//input[@id='middlename']",
+  "Last_Name_Field" : "//input[@id='lastname']",
+  "Email_Field" : "//input[@id='email_address']",
+  "Password_Field" : "//input[@id='password']",
+  "Confirm_Password_Field" : "//input[@id='confirmation']",
+  "News_Teller_Checkbox" : "//input[@id='is_subscribed']",
+  "Remember_Me_Checkbox" : "#remember_me7TrruPg0Sr",
+  "Register_Button" : "//button[@title='Register']"
+}

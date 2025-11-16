@@ -1,0 +1,8 @@
+{
+    "Men_Tab": "//a[@class='level0 has-children'][normalize-space()='Men']",
+    "Accessories_Tab" : "//a[@class='level0 has-children'][normalize-space()='Accessories']",
+    "Shoes_Subcategory" : "(//a[normalize-space()='Shoes'])[1]",
+    "Opt_In_Consent" : "privacy_pref_optin",
+    "Submit_Button" : "consent_prompt_submit"
+
+}
