@@ -10,7 +10,7 @@ public class Products_List {
     private final By Add_To_Wishlist_Button = By.xpath(Json_Data.Get_json_Data("Products_List", "Add_To_Wishlist_Button"));
     private final By View_Details_Button = By.xpath(Json_Data.Get_json_Data("Products_List", "View_Details_Button"));
     private final By Sort_By_DDL = By.cssSelector(Json_Data.Get_json_Data("Products_List", "Sort_By_DDL"));
-    private final By X_Icon = By.id("tealiumlabs_retail-21_inquiry5667_closeButton");
+    private final By X_Icon = By.id(Json_Data.Get_json_Data("Products_List","X_Icon"));
 
 
 
