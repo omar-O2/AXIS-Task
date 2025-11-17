@@ -21,7 +21,7 @@ public class Registration_Test extends TestBase {
     @Epic("Registration")
     @TmsLink("https://omarradwanpop.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin%3Acom.thed.zephyr.je__main-project-page&atlOrigin=eyJpIjoiNmRlMzc2YjYyNGQyNGI2Y2FmMjE1OTk4NmUzYjQwMjciLCJwIjoiaiJ9#!/v2/testCase/SCRUM-T10")
     @Owner("Omar")
-    @Description("https://omarradwanpop.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin%3Acom.thed.zephyr.je__main-project-page&atlOrigin=eyJpIjoiZjM3MTYwMjI0NTRlNDhlMTgxMGYxMDBiN2VhYjJiMzEiLCJwIjoiaiJ9#!/v2/testCase/SCRUM-T3")
+    @Description("User can register with invalid credentials")
     public void Registration_With_Valid_Credentials() {
         new Home_Page(driver).Press_On_Submit_Button();
         new Login_Flow_Page(driver).Press_Account_Button();
